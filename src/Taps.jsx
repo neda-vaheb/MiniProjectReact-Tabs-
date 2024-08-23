@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import "./Tabs.css"
 function Taps() {
     const [activeTab, setActiveTab] = useState(localStorage.getItem("activeTab")||'tab1');
 
