@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(226, 225, 225);
+}
+.header p{
+    color: rgb(102, 101, 101);
+}
