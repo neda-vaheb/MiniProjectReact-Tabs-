@@ -10,3 +10,19 @@
 .header p{
     color: rgb(102, 101, 101);
 }
+@media(max-width:780px){
+    .header h1{
+        font-size: 1.3rem;
+    }
+    .header p{
+        font-size: 0.8rem;
+    }
+}
+@media(max-width:580px){
+    .header h1{
+        font-size: 0.8rem;
+    }
+    .header p{
+        font-size: 0.5rem;
+    }
+}
